@@ -3,8 +3,7 @@ Alumno BETA: Santiago Iannello.
 Alumno GAMMA: Nahuel Gimenez.
 
 a-¿ALFA ve los datos que cargaron los demás en su repositorio?
-	respuesta: si,ALFA ve los datos que cargaron los demas integrantes.
+	respuesta: si,ALFA ve los datos que cargaron los demas integrantes
 
 b-¿Si ALFA agrega un archivo los demás integrantes lo ven?
-	respuesta: si,los demas integrantes pueden ver los archivos. 
-.
+	respuesta: si,los demas integrantes pueden ver los archivos
